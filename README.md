@@ -1,4 +1,4 @@
-# lein-beanstalk
+# adzerk/lein-beanstalk
 
 Leiningen plugin for Amazon's [Elastic Beanstalk][1].
 
